@@ -114,6 +114,7 @@ ___________________________________________________
     <Settings>
         <Setting name="max-video-encoder-input-buffers" value="9" />
         <Setting name="supports-secure-with-non-secure-codec" value="false" />
+        <Setting name="supports-multiple-secure-codecs" value="false" />
     </Settings>
     <Encoders>
         <!-- Video Hardware  -->
